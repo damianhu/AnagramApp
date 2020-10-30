@@ -49,7 +49,7 @@ First you need to install python and node.js, then download the postgresql and s
 
 2. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/harryhmh1/AnagramApp.git
 ```
 2. Open the root directory of server and run
 
@@ -76,6 +76,5 @@ npm start
 <!-- CONTACT -->
 ## Contact
 
-Your Name -   email@example.com
+Your Name -   humuhan123@outlook.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
